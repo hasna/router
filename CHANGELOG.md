@@ -2,6 +2,11 @@
 
 All notable changes to `@hasna/router` are documented in this file.
 
+## Unreleased
+
+- Run typechecking, builds, and tests in CI for pushes to `main` and pull
+  requests.
+
 ## 0.1.0 - 2026-07-24
 
 First published release.
